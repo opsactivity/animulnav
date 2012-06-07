@@ -6,6 +6,11 @@ Overview
 --------
 A simple jQuery plugin to animate all the elements of a "ul".
 
+Demo Page
+----
+
+See it on <a href="http://www.opsactivity.com">OPS Activity Web Page</a>
+
 Simple Usage
 -----
 Import the js file 
